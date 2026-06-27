@@ -1,13 +1,13 @@
-# Hokie
+# Hokie-2026
 
-**Hokie** is a desktop QC portal for sports-graphics asset checks. It gives
+**Hokie-2026** is a desktop QC portal for sports-graphics asset checks. It gives
 operators a single dashboard to run automated quality-control scans across
 many sports and review the results without touching the command line.
 
 > ℹ️ This is a public overview repo. The application source is kept in a
 > private repository. Reach out if you need access.
 
-![Hokie screenshot](screenshot.png)
+![Hokie-2026 screenshot](screenshot.png)
 
 ## What it does
 
