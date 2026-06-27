@@ -4,8 +4,13 @@
 operators a single dashboard to run automated quality-control scans across
 many sports and review the results without touching the command line.
 
-> ℹ️ This is a public overview repo. The application source is kept in a
-> private repository. Reach out if you need access.
+## 📌 Looking for the code?
+
+> [!IMPORTANT]
+> ### This is a public *overview* repo — it does **not** contain the application source.
+>
+> The actual code lives in a **private** repository.
+> **👉 Reach out to me directly if you need access.**
 
 ![Hokie-2026 screenshot](screenshot.png)
 
